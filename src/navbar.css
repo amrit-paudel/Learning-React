@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    width: 80%;
+    margin: 0 auto;
+    /* border: solid blue; */
+};
+
+
+a{
+    display: block;width: 100%;height: 100%;
+    text-decoration: none;
+    color: black;
+};
+
+li{
+    list-style-type: none;
+
+}
+.navbar{
+    /* border: solid blue; */
+    width: 100%;
+    display: flex;
+}
